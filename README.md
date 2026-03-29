@@ -11,7 +11,7 @@ BOM:
 | choc hot swap socket | 58 | - | - |
 | diodes | 58 | 1N4148W (SOD-123) | C2128 |
 | resistor | 2 | 0805, 2M | C106170 | 
-| resistor | 2 | 0805, 806 | C121025 |
+| resistor | 2 | 0805, 806k | C121025 |
 | keycaps | 58 | - | - |
 | nrf52 xiao | 2 | - | - |
 | switch | 2 | MSK12C02 | - |
