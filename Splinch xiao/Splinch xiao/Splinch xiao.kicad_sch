@@ -307,6 +307,15 @@
 					(hide yes)
 				)
 			)
+			(property "LCSC" "C2128"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
 			(property "ki_keywords" "diode"
 				(at 0 0 0)
 				(effects
@@ -3223,6 +3232,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 143.51 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f51277cc-4fa9-48c6-9575-8e83e80ca72c")
 		)
@@ -3304,6 +3322,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 143.51 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 143.51 119.38 0)
 			(effects
 				(font
@@ -3401,6 +3428,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 111.76 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc0231eb-8ed7-441f-8c33-cd9aaecf3ead")
 		)
@@ -3490,6 +3526,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 132.08 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29a7e143-ed4f-419b-9bd9-069ebddfe51c")
 		)
@@ -3571,6 +3616,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 121.92 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 121.92 88.9 0)
 			(effects
 				(font
@@ -3806,6 +3860,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 111.76 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15e92706-88a6-4cb3-8243-ef82cac76228")
 		)
@@ -3868,6 +3931,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 276.86 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C121025"
+			(at 276.86 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3956,6 +4028,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 143.51 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 143.51 133.35 0)
 			(effects
 				(font
@@ -4053,6 +4134,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 156.21 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "48c1b7e3-b3aa-41ca-8a2d-7cd525c59351")
 		)
@@ -4142,6 +4232,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 156.21 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e3e267b9-1d07-4bc4-adf6-5a441b902755")
 		)
@@ -4223,6 +4322,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 121.92 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 121.92 104.14 0)
 			(effects
 				(font
@@ -4469,7 +4577,7 @@
 				)
 			)
 		)
-		(property "Value" "2m"
+		(property "Value" "2M"
 			(at 264.16 45.72 90)
 			(effects
 				(font
@@ -4497,6 +4605,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 264.16 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C106170"
+			(at 264.16 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4585,6 +4702,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 170.18 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 170.18 119.38 0)
 			(effects
 				(font
@@ -4751,6 +4877,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 143.51 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c10dfbab-b60c-4dbb-95ff-0afa11f79b76")
 		)
@@ -4832,6 +4967,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 156.21 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 156.21 73.66 0)
 			(effects
 				(font
@@ -5059,6 +5203,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 170.18 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 170.18 133.35 0)
 			(effects
 				(font
@@ -5701,6 +5854,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 132.08 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0cd802ae-54ec-4b24-a9a4-f2994a2c9e1e")
 		)
@@ -5995,6 +6157,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 143.51 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5fdf62f6-dd9f-4145-af4a-5d86e03c83d9")
 		)
@@ -6145,6 +6316,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 156.21 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 156.21 119.38 0)
 			(effects
 				(font
@@ -6311,6 +6491,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 100.33 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f15181a6-35e7-4628-a61b-4b7887dcb662")
 		)
@@ -6392,6 +6581,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 111.76 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 111.76 119.38 0)
 			(effects
 				(font
@@ -6550,6 +6748,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 100.33 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 100.33 88.9 0)
 			(effects
 				(font
@@ -6921,6 +7128,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 121.92 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f2b83393-4976-4645-b7ca-213eaf849f30")
 		)
@@ -7148,6 +7364,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 132.08 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0aae25a5-415b-433f-ab2b-f1d362e3c300")
 		)
@@ -7229,6 +7454,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 132.08 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 132.08 73.66 0)
 			(effects
 				(font
@@ -7464,6 +7698,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 121.92 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "498ea7ef-4c69-4e7f-bc7f-059b7d22edec")
 		)
@@ -7545,6 +7788,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 132.08 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 132.08 133.35 0)
 			(effects
 				(font
@@ -7765,6 +8017,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 100.33 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 100.33 104.14 0)
 			(effects
 				(font
@@ -8138,6 +8399,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 100.33 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3edd9974-1e7d-49ba-bd3d-65b8b02c367e")
 		)
@@ -8296,6 +8566,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2128"
+			(at 156.21 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d2d7b23d-9d22-4859-9452-857cef91e1b0")
 		)
@@ -8377,6 +8656,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 111.76 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 111.76 73.66 0)
 			(effects
 				(font
@@ -8530,6 +8818,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 170.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2128"
 			(at 170.18 104.14 0)
 			(effects
 				(font
