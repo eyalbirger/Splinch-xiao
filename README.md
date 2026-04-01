@@ -18,3 +18,19 @@ BOM:
 | screws | 8 | m2 | - |
 | silicone feet | some | - | - | 7$ | https://he.aliexpress.com/item/1005010241201821.html?spm=a2g0o.productlist.main.27.163736427Ym5ki&algo_pvid=df98ee35-a38e-4c63-a4ad-8a2221e94798&algo_exp_id=df98ee35-a38e-4c63-a4ad-8a2221e94798-26&pdp_ext_f=%7B%22order%22%3A%22149%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%217.39%213.55%21%21%2150.88%2124.42%21%40210141f717748203947087454e4ff5%2112000051650167405%21sea%21IL%217476082455%21X%211%210%21n_tag%3A-29912%3Bd%3A60dc0150%3Bm03_new_user%3A-29895&curPageLogUid=sZyKOcIq8vIl&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010241201821%7C_p_origin_prod%3A | ![alt text](image-5.png) |
 | TOTAL | - | - | - | 124$ | - | - |
+
+
+
+in order to complete that you also need the pcb. you can choose to use the pcba or assamble it yourself. i reccomend to use the pcba with the ressistors and the doides, and hand soldering the others.
+this is the pcb:
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
+
+this is the case:
+you need **8 m2 standoffs**, you can glue them with superglue into the standoff holes.
+you also need **8 m2 screws** to screw the pcb to the case.
+you can put a **6mm (max) thick battery**.
+you need to mirror the case for the left part.
+![alt text](image-9.png)
+![alt text](image-10.png)
