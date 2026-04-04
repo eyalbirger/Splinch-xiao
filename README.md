@@ -1,7 +1,9 @@
 # Splinch xiao
-this is a 58 keys split ortho col staggered wireless keyboard that uses the 
-xiao nrf52840 as its micro controller and zmk as firmwere
+this is a 60 keys split ortho col staggered wireless keyboard that uses the 
+xiao nrf52840 as its micro controller and zmk as firmwere.
 
+i decided to build this because my current 60% razer gaming keeb, which has really bad software, hurts my wrist, ugly and sounds really annoying.
+i got the idea to build this when i saw the ferris sweep on youtube and it looked supppppper cool.
 
 
 BOM:
@@ -34,6 +36,8 @@ you can put a **6mm (max) thick battery**.
 you need to mirror the case for the left part.
 ![alt text](image-9.png)
 ![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
 
 firmware: https://github.com/eyalbirger/zmk-config-splinch.git
 i still need to complete and test the firmware (i have like one build error), but it will probably be completed in a few days (i have a war to deal with, so you know...).
