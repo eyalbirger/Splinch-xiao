@@ -34,3 +34,6 @@ you can put a **6mm (max) thick battery**.
 you need to mirror the case for the left part.
 ![alt text](image-9.png)
 ![alt text](image-10.png)
+
+firmware: https://github.com/eyalbirger/zmk-config-splinch.git
+i still need to complete and test the firmware (i have like one build error), but it will probably be completed in a few days (i have a war to deal with, so you know...).
